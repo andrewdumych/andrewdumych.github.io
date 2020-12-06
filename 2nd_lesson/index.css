@@ -1,7 +1,7 @@
 
  @font-face {
    font-family: 'saira';
-   src: url('2nd_lesson/saira-regular.ttf') format('truetype');
+   src: url('/saira-regular.ttf') format('truetype');
  }
 
 * {
