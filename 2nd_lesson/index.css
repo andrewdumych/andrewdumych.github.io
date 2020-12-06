@@ -1,3 +1,9 @@
 * {
   color: red;
 }
+
+
+ @font-face {
+   font-family:sans-serif;
+   src: Saira/Saira-Regular.ttf;
+ }
