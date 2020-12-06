@@ -1,14 +1,10 @@
 * {
   color: red;
+  font-family: saira;
 }
 
 
  @font-face {
    font-family: saira;
    src: 2nd_lesson/saira-regular.ttf;
-
  }
-
-h1 {
-  font-family: saira;
-  }
