@@ -1,7 +1,7 @@
 
  @font-face {
    font-family: saira;
-   src: 2nd_lesson/saira-regular.ttf;
+   src: url(2nd_lesson/saira-regular.ttf);
  }
 
 * {
