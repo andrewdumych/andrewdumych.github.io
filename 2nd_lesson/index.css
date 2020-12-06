@@ -3,7 +3,12 @@
 }
 
 
-h1 {
-   font-family: Saira;
-   src: url(2nd_lesson/saira-regular.ttf);
+ @font-face {
+   font-family: saira;
+   src: url (2nd_lesson/saira-regular.ttf);
+
  }
+
+h1 {
+  font-family: saira;
+  }
