@@ -1,13 +1,12 @@
 
 * {
   color: red;
-  font-family: saira;
 }
 
 
   @font-face {
    font-family: saira;
-   src: url('2nd_lesson/saira-regular.ttf');
+   src: url('saira-regular.ttf');
  }
 
   h1 {
