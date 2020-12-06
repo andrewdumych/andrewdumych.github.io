@@ -27,7 +27,7 @@ button {
     color: #ffffff;
     line-height: 20px;
     letter-spacing: 0em;
-    text-align: left;
+    text-align: center;
 
     display: flex;
     flex-direction: row;
@@ -35,9 +35,10 @@ button {
     align-items: center;
     padding: 20px 32px;
     background: #CD0000;
+    border: none;
     position: static;
-    width: 165px;
-    height: 60px;
-    left: 80px;
-    top: 80px;
+    width: auto;
+    height: auto;
+    left: auto;
+    top: auto;
   }
