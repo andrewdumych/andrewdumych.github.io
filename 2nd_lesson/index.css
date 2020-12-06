@@ -4,12 +4,10 @@
 }
 
 
-  @font-face {
-   font-family: saira;
-   src: url('saira-regular.ttf');
- }
-
   h1 {
-  font-family: saira;
-  color: black;
+  @font-face {
+    font-family: saira;
+    src: url('saira-regular.ttf');
+    color: black;
+  }
 }
