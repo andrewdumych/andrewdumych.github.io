@@ -1,10 +1,10 @@
 
  @font-face {
-   font-family: saira;
-   src: url(2nd_lesson/saira-regular.ttf);
+   font-family: 'saira';
+   src: url('2nd_lesson/saira-regular.ttf') format('truetype');
  }
 
 * {
-  color: black;
-  font-family: saira;
+  color: 'black';
+  font-family: 'saira';
 }
