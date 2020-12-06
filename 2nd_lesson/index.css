@@ -1,4 +1,8 @@
 
+@font-face {
+  src: url(saira-regular.ttf);
+}
+
 h1 {
     font-family: 'Saira', sans-serif;
     font-size: 64px;
@@ -33,6 +37,7 @@ button {
     flex-direction: row;
     justify-content: center;
     align-items: center;
+    align: center;
     padding: 20px 32px;
     background: #CD0000;
     border: none;
