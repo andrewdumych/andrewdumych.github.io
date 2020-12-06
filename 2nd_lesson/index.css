@@ -1,16 +1,16 @@
 
 * {
-  color: 'red';
-  font-family: 'saira';
+  color: red;
+  font-family: saira;
 }
 
- @font-face {
-   font-family: 'saira';
-   src: url('/saira-regular.ttf') format('truetype');
+
+  @font-face {
+   font-family: saira;
+   src: url('/saira-regular.ttf');
  }
 
-h1 {
-font-family: 'saira';
-color: 'black';
-
+  h1 {
+  font-family: saira;
+  color: black;
 }
