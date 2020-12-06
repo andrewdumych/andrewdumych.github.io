@@ -33,7 +33,7 @@ button {
     justify-content: center;
     align-items: center;
     padding: 20px 32px;
-
+    background: #CD0000;
     position: static;
     width: 165px;
     height: 60px;
