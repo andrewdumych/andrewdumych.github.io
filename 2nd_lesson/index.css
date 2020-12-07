@@ -1,11 +1,23 @@
 
 @font-face {
-  font-family: 'Saira';
-  src: url('saira-regular.ttf');
+  font-family: 'saira-400';
+  src: url('/Users/Andrew/Documents/GitHub/andrewdumych.github.io/Saira/Saira-Regular.ttf');
 }
 
+@font-face {
+  font-family: 'saira-600';
+  src: url('/Users/Andrew/Documents/GitHub/andrewdumych.github.io/Saira/Saira-SemiBold.ttf');
+}
+
+@font-face {
+  font-family: 'saira-700';
+  src: url('/Users/Andrew/Documents/GitHub/andrewdumych.github.io/Saira/Saira-Bold.ttf');
+}
+
+
+
 h1 {
-    font-family: 'Saira', sans-serif;
+    font-family: 'saira-700', sans-serif;
     font-size: 64px;
     font-style: normal;
     font-weight: 700;
@@ -15,7 +27,7 @@ h1 {
 }
 
 p {
-    font-family: 'Saira', sans-serif;
+    font-family: 'saira-400', sans-serif;
     font-size: 18px;
     font-style: normal;
     font-weight: 400;
@@ -25,7 +37,7 @@ p {
 }
 
 button {
-    font-family: 'Saira' sans-serif;
+    font-family: 'saira-600', sans-serif;
     font-size: 20px;
     font-style: normal;
     font-weight: 600;
@@ -48,5 +60,3 @@ button {
     left: auto;
     top: auto;
   }
-
-  button.hover
