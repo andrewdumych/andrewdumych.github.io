@@ -44,19 +44,11 @@ button {
     color: #ffffff;
     line-height: 20px;
     letter-spacing: 0em;
-    text-align: center;
-
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    align: center;
     padding: 20px 32px;
     background: #CD0000;
     border: none;
-    position: static;
-    width: auto;
-    height: auto;
-    left: auto;
-    top: auto;
-  }
+}
+
+div {
+  vertical-align: bottom;
+}
